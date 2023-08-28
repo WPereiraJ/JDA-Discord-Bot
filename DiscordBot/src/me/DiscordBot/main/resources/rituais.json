@@ -1,0 +1,22 @@
+{
+  "amaldiçoar_arma": {
+    "elemento": "MORTE 1",
+    "execucao": "padrao",
+    "alcance": "toque",
+    "alvo": "1 arma corpo a corpo ou pacote de municao",
+    "duracao": "cena",
+    "descricao": "Voce imbui a arma ou municoes com o elemento, fazendo com que causem +1d6 de dano do elemento escolhido.",
+    "discente": "+2 PE: muda o bonus de dano para +2d6. Requer 2o circulo.",
+    "verdadeiro": "+5 PE: muda o bonus de dano para +4d6. Requer 3o circulo e afinidade."
+  },
+  "cicatrizacao": {
+    "elemento": "MORTE 1",
+    "execucao": "padrao",
+    "alcance": "toque",
+    "alvo": "1 ser",
+    "duracao": "instantanea",
+    "descricao": "Voce acelera o tempo ao redor das feridas do alvo, que cicatrizam instantaneamente. O alvo recupera 3d8+3 PV, mas envelhece 1 ano automaticamente.",
+    "discente": "+2 PE: aumenta a cura para 5d8+5 PV. Requer 2o circulo.",
+    "verdadeiro": "+9 PE: muda o alcance para 'curto', o alvo para 'seres escolhidos' e aumenta a cura para 7d8+7 PV. Requer 4o circulo e afinidade com Morte."
+  }
+}
