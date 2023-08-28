@@ -13,7 +13,7 @@ public class BotLauncher {
 
     public static void main(String args[]) throws LoginException, InterruptedException {
 
-        JDA jda = JDABuilder.createDefault("MTEzNzAyMTg0NTUyMzE1NzE4Mw.Gfe6Es.52WmFSQOwWvbCWu77T2NG8_bIUIo-UhhDziAMc")
+        JDA jda = JDABuilder.createDefault("INSERT TOKEN HERE")
                 .setActivity(Activity.listening("Heilag Vagga"))
                 .addEventListeners(new Commands())
                 .build();
